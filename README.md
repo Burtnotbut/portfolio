@@ -1,4 +1,4 @@
-<h1>📋 履歷</h1>
+<h1>📝 簡介</h1>
 <span style="font-size:18px;">
 👋 嗨，我是 <b>江柏勳</b>！<br>
 這是一個簡單設計的個人介紹網站，讓您能快速了解我的背景與專業技能<br>
@@ -10,7 +10,7 @@
 - **製作內容**: 基於 Bootstrap 模板開發，製作 2025 年 9 月版個人履歷，並以網頁化方式展示技能樹與專業背景。<br>
 </span>
 
-<h1>📋 Resume</h1>
+<h1>📝 Profile</h1>
 <span style="font-size:18px;">
 👋 Hi, I’m <b>Pohsun Chiang</b>!<br>
 This is a simple personal website designed to give you a quick overview of my background and professional skills.<br>
