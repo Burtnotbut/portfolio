@@ -4,10 +4,6 @@
 這是一個簡單設計的個人介紹網站，讓您能快速了解我的背景與專業技能<br>
 <br>
 
-📷 <b>網站預覽</b>:  
-<a href="https://burtnotbut.github.io/portfolio/" target="_blank">https://burtnotbut.github.io/portfolio/</a><br>
-<br>
-
 📷預覽: https://burtnotbut.github.io/portfolio/<br>
 - **使用技術**: Bootstrap、HTML、CSS、JavaScript<br>
 - **製作日期**: 2025年9月<br>
