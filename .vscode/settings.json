@@ -1,4 +1,5 @@
 {
     "prettier.htmlWhitespaceSensitivity": "ignore",
-    "prettier.printWidth": 9999
+    "prettier.printWidth": 9999,
+    "liveServer.settings.port": 5501
 }
